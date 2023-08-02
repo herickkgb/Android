@@ -21,7 +21,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `Telas`: com Menus;
 - `Diversos modelos de Layouts`: suportados pelo Android em Smartphones ou Tablets;
 - `Boas práticas de programação;`:
-- `Padrões de projetos como MVC;`:
+- `Padrões de projetos como MVVM;`:
 - `Integração completa com Banco de Dados e criação de CRUD orientado a objetos;`:
 - `Persistência de dados com Banco de Dados SQLite Local;`:
 - `Persistência de dados com Banco de Dados MySQL Remoto na Web;`:
